@@ -12,6 +12,8 @@ Tools used: MySQL for cleaning and analysis, Tableau for visualization
 1. [Data Ingestion and Cleaning](#data-ingestion-and-cleaning)
 2. [Analysis: A Timeline of Volatility](#analysis-a-timeline-of-volatility)
     - [Introduction - Price Vs. Production: An Overview of General Trends](*introduction-price-vs.-production-an-overview-of-general-trends)
+    - [Methodology](#methodology)
+    - [Key Findings](#key-findings)
     - [1910 - Flaxseed](#1910---flaxseed)
     - [WW1: Agriculture Boom (1914-1918)](#ww1-agriculture-boom1914-1918)
     - [1920-21 Recession (1920-21)](#1920-21-recession1920-21)
@@ -79,7 +81,32 @@ The more interesting aspect of this data is the timeline of events that correlat
 
 This analysis of nearly 80 years of Canadian farm data reveals a timeline of volatility driven largely by global events, economic cycles, and government policy. In my research, I’ve directly correlated many of these price and production outliers to both **World Wars**, **The Great Depression**, and multiple recessions including **The Great Grain Robbery of 1973**. **The data illustrates through the numbers, classic supply and demand loops as farmers chased high value crops creating price craters from oversupply,** while certain **other price outliers can be attributed to** **government policy and intervention**, like the creation of the **Canadian Wheat Board**, and the **Wheat Acreage Reduction Program**.
 
+## **Methodology:**
+
+The majority of the analysis revolves around the outliers, as that is where the largest peaks and valleys of the data come from. In order to detect these I calculated using the Interquartile Range.
+
+## **What is the Interquartile Range (IQR)?**
+
+The **Interquartile Range (IQR)** is a measure of how spread out the middle 50% of a dataset is. It's a key tool in statistics because it's resistant to outliers, which makes it perfect for finding them.
+
+* **Quartiles**: Imagine you line up all your data points from smallest to largest. Quartiles are the points that split the data into four equal parts.  
+  * **Q1 (First Quartile)**: The 25th percentile. 25% of the data is *smaller* than this value.  
+  * **Q2 (Second Quartile)**: The 50th percentile, which is also the **median**.  
+  * **Q3 (Third Quartile)**: The 75th percentile. 75% of the data is *smaller* than this value.  
+* **Calculation**: The IQR is simply the difference between the third and first quartiles.  
+  * `IQR = Q3 - Q1`
+
+### **How the IQR is Used to Find Outliers**
+
+The IQR is the foundation for the most common method of detecting outliers. You establish a border outside of Q1 and Q3, and any data point that falls outside this border is considered an outlier.
+
+* **Lower Bound**: `Q1 - (1.5 * IQR)`  
+* **Upper Bound**: `Q3 + (1.5 * IQR)`
+
 ---
+
+# **Key Findings**
+
 ## **1910 \- Flaxseed:**
 
 This won’t be the only time we see flaxseed in the outliers, but the first time we do is in **1910**. It is a fascinating, and relatively uncommon example of raising price ***and*** raising production in the same outlier year. 
