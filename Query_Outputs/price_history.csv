@@ -1,0 +1,1153 @@
+ref_date,type_of_crop,prior_year_avg_price,current_year_avg_price,following_year_avg_price
+1908,Barley,NULL,23.62,25.25
+1909,Barley,23.62,25.25,28.22
+1910,Barley,25.25,28.22,27.22
+1911,Barley,28.22,27.22,26.22
+1912,Barley,27.22,26.22,25.67
+1913,Barley,26.22,25.67,33.56
+1914,Barley,25.67,33.56,29.78
+1915,Barley,33.56,29.78,41.56
+1916,Barley,29.78,41.56,56.11
+1917,Barley,41.56,56.11,57.67
+1918,Barley,56.11,57.67,64.44
+1919,Barley,57.67,64.44,51.78
+1920,Barley,64.44,51.78,33.33
+1921,Barley,51.78,33.33,33.11
+1922,Barley,33.33,33.11,31.44
+1923,Barley,33.11,31.44,39.22
+1924,Barley,31.44,39.22,34.44
+1925,Barley,39.22,34.44,36.11
+1926,Barley,34.44,36.11,39.44
+1927,Barley,36.11,39.44,37.22
+1928,Barley,39.44,37.22,38.33
+1929,Barley,37.22,38.33,20.44
+1930,Barley,38.33,20.44,19.11
+1931,Barley,20.44,19.11,17.11
+1932,Barley,19.11,17.11,20.33
+1933,Barley,17.11,20.33,25.11
+1934,Barley,20.33,25.11,21.67
+1935,Barley,25.11,21.67,32
+1936,Barley,21.67,32,30.78
+1937,Barley,32,30.78,22.11
+1938,Barley,30.78,22.11,24.78
+1939,Barley,22.11,24.78,23.11
+1940,Barley,24.78,23.11,27.44
+1941,Barley,23.11,27.44,29.33
+1942,Barley,27.44,29.33,35.33
+1943,Barley,29.33,35.33,37.33
+1944,Barley,35.33,37.33,36.33
+1945,Barley,37.33,36.33,39.11
+1946,Barley,36.33,39.11,51.44
+1947,Barley,39.11,51.44,50.22
+1948,Barley,51.44,50.22,58
+1949,Barley,50.22,58,56
+1950,Barley,58,56,55.89
+1951,Barley,56,55.89,55.44
+1952,Barley,55.89,55.44,45.44
+1953,Barley,55.44,45.44,44.89
+1954,Barley,45.44,44.89,45.33
+1955,Barley,44.89,45.33,44.22
+1956,Barley,45.33,44.22,42
+1957,Barley,44.22,42,42.78
+1958,Barley,42,42.78,42.44
+1959,Barley,42.78,42.44,44
+1960,Barley,42.44,44,49.89
+1961,Barley,44,49.89,47.56
+1962,Barley,49.89,47.56,47.33
+1963,Barley,47.56,47.33,48.78
+1964,Barley,47.33,48.78,50.33
+1965,Barley,48.78,50.33,51.56
+1966,Barley,50.33,51.56,48.89
+1967,Barley,51.56,48.89,45.67
+1968,Barley,48.89,45.67,41.56
+1969,Barley,45.67,41.56,44.67
+1970,Barley,41.56,44.67,42.56
+1971,Barley,44.67,42.56,56.44
+1972,Barley,42.56,56.44,105.56
+1973,Barley,56.44,105.56,105.89
+1974,Barley,105.56,105.89,105.78
+1975,Barley,105.89,105.78,91.78
+1976,Barley,105.78,91.78,81
+1977,Barley,91.78,81,85.67
+1978,Barley,81,85.67,109.11
+1979,Barley,85.67,109.11,146.44
+1980,Barley,109.11,146.44,134.44
+1981,Barley,146.44,134.44,112.33
+1982,Barley,134.44,112.33,130.44
+1983,Barley,112.33,130.44,138.56
+1984,Barley,130.44,138.56,NULL
+1908,"Beans, all dry (white and coloured)",NULL,69.25,73
+1909,"Beans, all dry (white and coloured)",69.25,73,74.6
+1910,"Beans, all dry (white and coloured)",73,74.6,81
+1911,"Beans, all dry (white and coloured)",74.6,81,90
+1912,"Beans, all dry (white and coloured)",81,90,87.8
+1913,"Beans, all dry (white and coloured)",90,87.8,101.25
+1914,"Beans, all dry (white and coloured)",87.8,101.25,130.75
+1915,"Beans, all dry (white and coloured)",101.25,130.75,207.25
+1916,"Beans, all dry (white and coloured)",130.75,207.25,289.5
+1917,"Beans, all dry (white and coloured)",207.25,289.5,223.43
+1918,"Beans, all dry (white and coloured)",289.5,223.43,164.14
+1919,"Beans, all dry (white and coloured)",223.43,164.14,151.71
+1920,"Beans, all dry (white and coloured)",164.14,151.71,106.43
+1921,"Beans, all dry (white and coloured)",151.71,106.43,102.86
+1922,"Beans, all dry (white and coloured)",106.43,102.86,106.57
+1923,"Beans, all dry (white and coloured)",102.86,106.57,104.86
+1924,"Beans, all dry (white and coloured)",106.57,104.86,100.29
+1925,"Beans, all dry (white and coloured)",104.86,100.29,110.29
+1926,"Beans, all dry (white and coloured)",100.29,110.29,108.29
+1927,"Beans, all dry (white and coloured)",110.29,108.29,127
+1928,"Beans, all dry (white and coloured)",108.29,127,113.71
+1929,"Beans, all dry (white and coloured)",127,113.71,82.14
+1930,"Beans, all dry (white and coloured)",113.71,82.14,48
+1931,"Beans, all dry (white and coloured)",82.14,48,35.67
+1932,"Beans, all dry (white and coloured)",48,35.67,46.83
+1933,"Beans, all dry (white and coloured)",35.67,46.83,50.17
+1934,"Beans, all dry (white and coloured)",46.83,50.17,50.17
+1935,"Beans, all dry (white and coloured)",50.17,50.17,67.17
+1936,"Beans, all dry (white and coloured)",50.17,67.17,66.67
+1937,"Beans, all dry (white and coloured)",67.17,66.67,62.17
+1938,"Beans, all dry (white and coloured)",66.67,62.17,77.4
+1939,"Beans, all dry (white and coloured)",62.17,77.4,82
+1940,"Beans, all dry (white and coloured)",77.4,82,83
+1941,"Beans, all dry (white and coloured)",82,83,83
+1942,"Beans, all dry (white and coloured)",83,83,97.5
+1943,"Beans, all dry (white and coloured)",83,97.5,105.5
+1944,"Beans, all dry (white and coloured)",97.5,105.5,111.5
+1945,"Beans, all dry (white and coloured)",105.5,111.5,125.5
+1946,"Beans, all dry (white and coloured)",111.5,125.5,182
+1947,"Beans, all dry (white and coloured)",125.5,182,160
+1948,"Beans, all dry (white and coloured)",182,160,143
+1949,"Beans, all dry (white and coloured)",160,143,176
+1950,"Beans, all dry (white and coloured)",143,176,165.5
+1951,"Beans, all dry (white and coloured)",176,165.5,175.5
+1952,"Beans, all dry (white and coloured)",165.5,175.5,156.5
+1953,"Beans, all dry (white and coloured)",175.5,156.5,167
+1954,"Beans, all dry (white and coloured)",156.5,167,170
+1955,"Beans, all dry (white and coloured)",167,170,150
+1956,"Beans, all dry (white and coloured)",170,150,137
+1957,"Beans, all dry (white and coloured)",150,137,144
+1958,"Beans, all dry (white and coloured)",137,144,152
+1959,"Beans, all dry (white and coloured)",144,152,150.5
+1960,"Beans, all dry (white and coloured)",152,150.5,149
+1961,"Beans, all dry (white and coloured)",150.5,149,161
+1962,"Beans, all dry (white and coloured)",149,161,162
+1963,"Beans, all dry (white and coloured)",161,162,167.5
+1964,"Beans, all dry (white and coloured)",162,167.5,170.5
+1965,"Beans, all dry (white and coloured)",167.5,170.5,151.5
+1966,"Beans, all dry (white and coloured)",170.5,151.5,177
+1967,"Beans, all dry (white and coloured)",151.5,177,166.5
+1968,"Beans, all dry (white and coloured)",177,166.5,158
+1969,"Beans, all dry (white and coloured)",166.5,158,185
+1970,"Beans, all dry (white and coloured)",158,185,204
+1971,"Beans, all dry (white and coloured)",185,204,193
+1972,"Beans, all dry (white and coloured)",204,193,451
+1973,"Beans, all dry (white and coloured)",193,451,306
+1974,"Beans, all dry (white and coloured)",451,306,343
+1975,"Beans, all dry (white and coloured)",306,343,354
+1976,"Beans, all dry (white and coloured)",343,354,331
+1977,"Beans, all dry (white and coloured)",354,331,321
+1978,"Beans, all dry (white and coloured)",331,321,465
+1979,"Beans, all dry (white and coloured)",321,465,628
+1980,"Beans, all dry (white and coloured)",465,628,677
+1981,"Beans, all dry (white and coloured)",628,677,264
+1982,"Beans, all dry (white and coloured)",677,264,622
+1983,"Beans, all dry (white and coloured)",264,622,514
+1984,"Beans, all dry (white and coloured)",622,514,NULL
+1908,Buckwheat,NULL,27.6,26.8
+1909,Buckwheat,27.6,26.8,26.6
+1910,Buckwheat,26.8,26.6,29.2
+1911,Buckwheat,26.6,29.2,29.4
+1912,Buckwheat,29.2,29.4,29.4
+1913,Buckwheat,29.4,29.4,32.6
+1914,Buckwheat,29.4,32.6,34.4
+1915,Buckwheat,32.6,34.4,45.8
+1916,Buckwheat,34.4,45.8,61.6
+1917,Buckwheat,45.8,61.6,69.8
+1918,Buckwheat,61.6,69.8,68.6
+1919,Buckwheat,69.8,68.6,60.4
+1920,Buckwheat,68.6,60.4,41.6
+1921,Buckwheat,60.4,41.6,40
+1922,Buckwheat,41.6,40,42.2
+1923,Buckwheat,40,42.2,43.4
+1924,Buckwheat,42.2,43.4,40.67
+1925,Buckwheat,43.4,40.67,42.17
+1926,Buckwheat,40.67,42.17,47.67
+1927,Buckwheat,42.17,47.67,41.67
+1928,Buckwheat,47.67,41.67,46.33
+1929,Buckwheat,41.67,46.33,31.83
+1930,Buckwheat,46.33,31.83,26.33
+1931,Buckwheat,31.83,26.33,23.67
+1932,Buckwheat,26.33,23.67,25.5
+1933,Buckwheat,23.67,25.5,27.83
+1934,Buckwheat,25.5,27.83,28.67
+1935,Buckwheat,27.83,28.67,33.67
+1936,Buckwheat,28.67,33.67,35.5
+1937,Buckwheat,33.67,35.5,29
+1938,Buckwheat,35.5,29,31.83
+1939,Buckwheat,29,31.83,30.67
+1940,Buckwheat,31.83,30.67,33.5
+1941,Buckwheat,30.67,33.5,34.75
+1942,Buckwheat,33.5,34.75,39.25
+1943,Buckwheat,34.75,39.25,42.75
+1944,Buckwheat,39.25,42.75,45
+1945,Buckwheat,42.75,45,49.75
+1946,Buckwheat,45,49.75,61
+1947,Buckwheat,49.75,61,59.5
+1948,Buckwheat,61,59.5,58.25
+1949,Buckwheat,59.5,58.25,61
+1950,Buckwheat,58.25,61,62.5
+1951,Buckwheat,61,62.5,58.5
+1952,Buckwheat,62.5,58.5,48
+1953,Buckwheat,58.5,48,50.5
+1954,Buckwheat,48,50.5,55
+1955,Buckwheat,50.5,55,52
+1956,Buckwheat,55,52,47.5
+1957,Buckwheat,52,47.5,46.5
+1958,Buckwheat,47.5,46.5,47
+1959,Buckwheat,46.5,47,50.75
+1960,Buckwheat,47,50.75,52.75
+1961,Buckwheat,50.75,52.75,59
+1962,Buckwheat,52.75,59,58
+1963,Buckwheat,59,58,51.25
+1964,Buckwheat,58,51.25,52.25
+1965,Buckwheat,51.25,52.25,61.5
+1966,Buckwheat,52.25,61.5,65
+1967,Buckwheat,61.5,65,62.5
+1968,Buckwheat,65,62.5,67.83
+1969,Buckwheat,62.5,67.83,59.67
+1970,Buckwheat,67.83,59.67,63
+1971,Buckwheat,59.67,63,61.8
+1972,Buckwheat,63,61.8,115.8
+1973,Buckwheat,61.8,115.8,142.25
+1974,Buckwheat,115.8,142.25,127.5
+1975,Buckwheat,142.25,127.5,144.67
+1976,Buckwheat,127.5,144.67,154
+1977,Buckwheat,144.67,154,163.33
+1978,Buckwheat,154,163.33,170.5
+1979,Buckwheat,163.33,170.5,247
+1980,Buckwheat,170.5,247,378.5
+1981,Buckwheat,247,378.5,318.5
+1982,Buckwheat,378.5,318.5,320
+1983,Buckwheat,318.5,320,345
+1984,Buckwheat,320,345,NULL
+1949,"Canola (rapeseed)",NULL,110,100
+1950,"Canola (rapeseed)",110,100,78
+1951,"Canola (rapeseed)",100,78,73.5
+1952,"Canola (rapeseed)",78,73.5,83
+1953,"Canola (rapeseed)",73.5,83,79
+1954,"Canola (rapeseed)",83,79,82
+1955,"Canola (rapeseed)",79,82,77.67
+1956,"Canola (rapeseed)",82,77.67,67.67
+1957,"Canola (rapeseed)",77.67,67.67,58
+1958,"Canola (rapeseed)",67.67,58,88
+1959,"Canola (rapeseed)",58,88,77.33
+1960,"Canola (rapeseed)",88,77.33,79.33
+1961,"Canola (rapeseed)",77.33,79.33,86.67
+1962,"Canola (rapeseed)",79.33,86.67,110.67
+1963,"Canola (rapeseed)",86.67,110.67,120.33
+1964,"Canola (rapeseed)",110.67,120.33,106.67
+1965,"Canola (rapeseed)",120.33,106.67,108.67
+1966,"Canola (rapeseed)",106.67,108.67,84.75
+1967,"Canola (rapeseed)",108.67,84.75,80
+1968,"Canola (rapeseed)",84.75,80,102.5
+1969,"Canola (rapeseed)",80,102.5,102
+1970,"Canola (rapeseed)",102.5,102,96
+1971,"Canola (rapeseed)",102,96,138.75
+1972,"Canola (rapeseed)",96,138.75,253
+1973,"Canola (rapeseed)",138.75,253,310.25
+1974,"Canola (rapeseed)",253,310.25,224.5
+1975,"Canola (rapeseed)",310.25,224.5,262.25
+1976,"Canola (rapeseed)",224.5,262.25,279
+1977,"Canola (rapeseed)",262.25,279,279.5
+1978,"Canola (rapeseed)",279,279.5,270.75
+1979,"Canola (rapeseed)",279.5,270.75,280.75
+1980,"Canola (rapeseed)",270.75,280.75,278.25
+1981,"Canola (rapeseed)",280.75,278.25,271
+1982,"Canola (rapeseed)",278.25,271,381.2
+1983,"Canola (rapeseed)",271,381.2,348.2
+1984,"Canola (rapeseed)",381.2,348.2,NULL
+1908,"Corn for grain",NULL,27,30.5
+1909,"Corn for grain",27,30.5,27.5
+1910,"Corn for grain",30.5,27.5,32.5
+1911,"Corn for grain",27.5,32.5,32
+1912,"Corn for grain",32.5,32,32
+1913,"Corn for grain",32,32,34.5
+1914,"Corn for grain",32,34.5,35.5
+1915,"Corn for grain",34.5,35.5,50.5
+1916,"Corn for grain",35.5,50.5,78.5
+1917,"Corn for grain",50.5,78.5,75.5
+1918,"Corn for grain",78.5,75.5,60.5
+1919,"Corn for grain",75.5,60.5,53.5
+1920,"Corn for grain",60.5,53.5,38
+1921,"Corn for grain",53.5,38,40.5
+1922,"Corn for grain",38,40.5,47.5
+1923,"Corn for grain",40.5,47.5,53
+1924,"Corn for grain",47.5,53,45.5
+1925,"Corn for grain",53,45.5,46.5
+1926,"Corn for grain",45.5,46.5,46.5
+1927,"Corn for grain",46.5,46.5,49
+1928,"Corn for grain",46.5,49,47
+1929,"Corn for grain",49,47,36
+1930,"Corn for grain",47,36,26.5
+1931,"Corn for grain",36,26.5,18
+1932,"Corn for grain",26.5,18,23
+1933,"Corn for grain",18,23,26
+1934,"Corn for grain",23,26,18
+1935,"Corn for grain",26,18,27
+1936,"Corn for grain",18,27,25
+1937,"Corn for grain",27,25,19
+1938,"Corn for grain",25,19,22
+1939,"Corn for grain",19,22,22
+1940,"Corn for grain",22,22,26.5
+1941,"Corn for grain",22,26.5,29
+1942,"Corn for grain",26.5,29,32.5
+1943,"Corn for grain",29,32.5,38
+1944,"Corn for grain",32.5,38,40
+1945,"Corn for grain",38,40,39.5
+1946,"Corn for grain",40,39.5,64.5
+1947,"Corn for grain",39.5,64.5,50.5
+1948,"Corn for grain",64.5,50.5,44
+1949,"Corn for grain",50.5,44,50.5
+1950,"Corn for grain",44,50.5,55
+1951,"Corn for grain",50.5,55,50
+1952,"Corn for grain",55,50,46.5
+1953,"Corn for grain",50,46.5,50
+1954,"Corn for grain",46.5,50,42.5
+1955,"Corn for grain",50,42.5,47.5
+1956,"Corn for grain",42.5,47.5,46.5
+1957,"Corn for grain",47.5,46.5,47
+1958,"Corn for grain",46.5,47,41.5
+1959,"Corn for grain",47,41.5,45.5
+1960,"Corn for grain",41.5,45.5,46.5
+1961,"Corn for grain",45.5,46.5,47.5
+1962,"Corn for grain",46.5,47.5,51.5
+1963,"Corn for grain",47.5,51.5,49
+1964,"Corn for grain",51.5,49,50
+1965,"Corn for grain",49,50,58.33
+1966,"Corn for grain",50,58.33,55.67
+1967,"Corn for grain",58.33,55.67,51.67
+1968,"Corn for grain",55.67,51.67,53
+1969,"Corn for grain",51.67,53,57.33
+1970,"Corn for grain",53,57.33,50
+1971,"Corn for grain",57.33,50,66.33
+1972,"Corn for grain",50,66.33,114
+1973,"Corn for grain",66.33,114,135
+1974,"Corn for grain",114,135,113.67
+1975,"Corn for grain",135,113.67,103.67
+1976,"Corn for grain",113.67,103.67,96.33
+1977,"Corn for grain",103.67,96.33,107
+1978,"Corn for grain",96.33,107,131.5
+1979,"Corn for grain",107,131.5,156.75
+1980,"Corn for grain",131.5,156.75,133.25
+1981,"Corn for grain",156.75,133.25,126.25
+1982,"Corn for grain",133.25,126.25,173
+1983,"Corn for grain",126.25,173,162
+1984,"Corn for grain",173,162,NULL
+1908,"Corn for silage",NULL,0.42,0.56
+1909,"Corn for silage",0.42,0.56,0.53
+1910,"Corn for silage",0.56,0.53,0.67
+1911,"Corn for silage",0.53,0.67,0.72
+1912,"Corn for silage",0.67,0.72,0.68
+1913,"Corn for silage",0.72,0.68,0.57
+1914,"Corn for silage",0.68,0.57,0.57
+1915,"Corn for silage",0.57,0.57,0.54
+1916,"Corn for silage",0.57,0.54,0.74
+1917,"Corn for silage",0.54,0.74,0.99
+1918,"Corn for silage",0.74,0.99,1.07
+1919,"Corn for silage",0.99,1.07,1.43
+1920,"Corn for silage",1.07,1.43,0.89
+1921,"Corn for silage",1.43,0.89,0.85
+1922,"Corn for silage",0.89,0.85,0.67
+1923,"Corn for silage",0.85,0.67,0.67
+1924,"Corn for silage",0.67,0.67,0.68
+1925,"Corn for silage",0.67,0.68,0.66
+1926,"Corn for silage",0.68,0.66,0.61
+1927,"Corn for silage",0.66,0.61,0.6
+1928,"Corn for silage",0.61,0.6,0.65
+1929,"Corn for silage",0.6,0.65,0.72
+1930,"Corn for silage",0.65,0.72,0.5
+1931,"Corn for silage",0.72,0.5,0.39
+1932,"Corn for silage",0.5,0.39,0.42
+1933,"Corn for silage",0.39,0.42,0.52
+1934,"Corn for silage",0.42,0.52,0.45
+1935,"Corn for silage",0.52,0.45,0.52
+1936,"Corn for silage",0.45,0.52,0.52
+1937,"Corn for silage",0.52,0.52,0.49
+1938,"Corn for silage",0.52,0.49,0.54
+1939,"Corn for silage",0.49,0.54,0.47
+1940,"Corn for silage",0.54,0.47,0.56
+1941,"Corn for silage",0.47,0.56,0.56
+1942,"Corn for silage",0.56,0.56,0.66
+1943,"Corn for silage",0.56,0.66,0.59
+1944,"Corn for silage",0.66,0.59,0.61
+1945,"Corn for silage",0.59,0.61,0.69
+1946,"Corn for silage",0.61,0.69,0.76
+1947,"Corn for silage",0.69,0.76,0.88
+1948,"Corn for silage",0.76,0.88,0.92
+1949,"Corn for silage",0.88,0.92,0.86
+1950,"Corn for silage",0.92,0.86,0.87
+1951,"Corn for silage",0.86,0.87,0.77
+1952,"Corn for silage",0.87,0.77,7.54
+1953,"Corn for silage",0.77,7.54,8.12
+1954,"Corn for silage",7.54,8.12,8.46
+1955,"Corn for silage",8.12,8.46,8.62
+1956,"Corn for silage",8.46,8.62,7.3
+1957,"Corn for silage",8.62,7.3,8.54
+1958,"Corn for silage",7.3,8.54,9.08
+1959,"Corn for silage",8.54,9.08,8.12
+1960,"Corn for silage",9.08,8.12,9.3
+1961,"Corn for silage",8.12,9.3,8.1
+1962,"Corn for silage",9.3,8.1,8.48
+1963,"Corn for silage",8.1,8.48,8.32
+1964,"Corn for silage",8.48,8.32,8.94
+1965,"Corn for silage",8.32,8.94,9.04
+1966,"Corn for silage",8.94,9.04,9.16
+1967,"Corn for silage",9.04,9.16,9.54
+1968,"Corn for silage",9.16,9.54,8.46
+1969,"Corn for silage",9.54,8.46,8.44
+1970,"Corn for silage",8.46,8.44,8.48
+1971,"Corn for silage",8.44,8.48,10.4
+1972,"Corn for silage",8.48,10.4,14.2
+1973,"Corn for silage",10.4,14.2,17.95
+1974,"Corn for silage",14.2,17.95,18.55
+1975,"Corn for silage",17.95,18.55,19.85
+1976,"Corn for silage",18.55,19.85,17.54
+1977,"Corn for silage",19.85,17.54,18.88
+1978,"Corn for silage",17.54,18.88,19.76
+1979,"Corn for silage",18.88,19.76,25.12
+1980,"Corn for silage",19.76,25.12,25.66
+1981,"Corn for silage",25.12,25.66,25.68
+1982,"Corn for silage",25.66,25.68,29.51
+1983,"Corn for silage",25.68,29.51,28.8
+1984,"Corn for silage",29.51,28.8,NULL
+1908,Flaxseed,NULL,35.33,47.33
+1909,Flaxseed,35.33,47.33,77.4
+1910,Flaxseed,47.33,77.4,63.6
+1911,Flaxseed,77.4,63.6,47
+1912,Flaxseed,63.6,47,50.4
+1913,Flaxseed,47,50.4,54.2
+1914,Flaxseed,50.4,54.2,64.8
+1915,Flaxseed,54.2,64.8,82.4
+1916,Flaxseed,64.8,82.4,120.8
+1917,Flaxseed,82.4,120.8,130.2
+1918,Flaxseed,120.8,130.2,157.2
+1919,Flaxseed,130.2,157.2,93.8
+1920,Flaxseed,157.2,93.8,73.6
+1921,Flaxseed,93.8,73.6,69
+1922,Flaxseed,73.6,69,69.4
+1923,Flaxseed,69,69.4,75.17
+1924,Flaxseed,69.4,75.17,79.33
+1925,Flaxseed,75.17,79.33,71
+1926,Flaxseed,79.33,71,67.5
+1927,Flaxseed,71,67.5,74.17
+1928,Flaxseed,67.5,74.17,88.5
+1929,Flaxseed,74.17,88.5,49.17
+1930,Flaxseed,88.5,49.17,40.17
+1931,Flaxseed,49.17,40.17,33.33
+1932,Flaxseed,40.17,33.33,47.83
+1933,Flaxseed,33.33,47.83,47.5
+1934,Flaxseed,47.83,47.5,49.17
+1935,Flaxseed,47.5,49.17,57.67
+1936,Flaxseed,49.17,57.67,56.5
+1937,Flaxseed,57.67,56.5,45.67
+1938,Flaxseed,56.5,45.67,59.5
+1939,Flaxseed,45.67,59.5,43.8
+1940,Flaxseed,59.5,43.8,55
+1941,Flaxseed,43.8,55,77
+1942,Flaxseed,55,77,81.4
+1943,Flaxseed,77,81.4,98.8
+1944,Flaxseed,81.4,98.8,99.6
+1945,Flaxseed,98.8,99.6,118
+1946,Flaxseed,99.6,118,207.8
+1947,Flaxseed,118,207.8,149.2
+1948,Flaxseed,207.8,149.2,131.6
+1949,Flaxseed,149.2,131.6,137.4
+1950,Flaxseed,131.6,137.4,152.2
+1951,Flaxseed,137.4,152.2,125.8
+1952,Flaxseed,152.2,125.8,96
+1953,Flaxseed,125.8,96,99.4
+1954,Flaxseed,96,99.4,108
+1955,Flaxseed,99.4,108,102
+1956,Flaxseed,108,102,99.6
+1957,Flaxseed,102,99.6,103
+1958,Flaxseed,99.6,103,117.8
+1959,Flaxseed,103,117.8,111.33
+1960,Flaxseed,117.8,111.33,128.83
+1961,Flaxseed,111.33,128.83,121.83
+1962,Flaxseed,128.83,121.83,114.17
+1963,Flaxseed,121.83,114.17,114.67
+1964,Flaxseed,114.17,114.67,106.83
+1965,Flaxseed,114.67,106.83,106.67
+1966,Flaxseed,106.83,106.67,118.33
+1967,Flaxseed,106.67,118.33,114
+1968,Flaxseed,118.33,114,102.83
+1969,Flaxseed,114,102.83,91.83
+1970,Flaxseed,102.83,91.83,86
+1971,Flaxseed,91.83,86,148.25
+1972,Flaxseed,86,148.25,366
+1973,Flaxseed,148.25,366,371.67
+1974,Flaxseed,366,371.67,257.67
+1975,Flaxseed,371.67,257.67,267.67
+1976,Flaxseed,257.67,267.67,213
+1977,Flaxseed,267.67,213,279.33
+1978,Flaxseed,213,279.33,293
+1979,Flaxseed,279.33,293,330.33
+1980,Flaxseed,293,330.33,313.33
+1981,Flaxseed,330.33,313.33,246.33
+1982,Flaxseed,313.33,246.33,322.67
+1983,Flaxseed,246.33,322.67,315
+1984,Flaxseed,322.67,315,NULL
+1981,Lentils,NULL,492,371
+1982,Lentils,492,371,350.33
+1983,Lentils,371,350.33,495.67
+1984,Lentils,350.33,495.67,NULL
+1908,"Mixed grains",NULL,28,28.8
+1909,"Mixed grains",28,28.8,27.22
+1910,"Mixed grains",28.8,27.22,28.22
+1911,"Mixed grains",27.22,28.22,28.78
+1912,"Mixed grains",28.22,28.78,23.44
+1913,"Mixed grains",28.78,23.44,31.67
+1914,"Mixed grains",23.44,31.67,30.44
+1915,"Mixed grains",31.67,30.44,37.44
+1916,"Mixed grains",30.44,37.44,55
+1917,"Mixed grains",37.44,55,57.22
+1918,"Mixed grains",55,57.22,64.44
+1919,"Mixed grains",57.22,64.44,58.67
+1920,"Mixed grains",64.44,58.67,31.44
+1921,"Mixed grains",58.67,31.44,29.89
+1922,"Mixed grains",31.44,29.89,28.78
+1923,"Mixed grains",29.89,28.78,37.33
+1924,"Mixed grains",28.78,37.33,33.67
+1925,"Mixed grains",37.33,33.67,35.22
+1926,"Mixed grains",33.67,35.22,38.22
+1927,"Mixed grains",35.22,38.22,35.78
+1928,"Mixed grains",38.22,35.78,40.33
+1929,"Mixed grains",35.78,40.33,20.78
+1930,"Mixed grains",40.33,20.78,16.89
+1931,"Mixed grains",20.78,16.89,15.78
+1932,"Mixed grains",16.89,15.78,19.33
+1933,"Mixed grains",15.78,19.33,21.78
+1934,"Mixed grains",19.33,21.78,20.56
+1935,"Mixed grains",21.78,20.56,26.22
+1936,"Mixed grains",20.56,26.22,28.78
+1937,"Mixed grains",26.22,28.78,20.67
+1938,"Mixed grains",28.78,20.67,22.44
+1939,"Mixed grains",20.67,22.44,20.67
+1940,"Mixed grains",22.44,20.67,25
+1941,"Mixed grains",20.67,25,26.11
+1942,"Mixed grains",25,26.11,32.44
+1943,"Mixed grains",26.11,32.44,31.44
+1944,"Mixed grains",32.44,31.44,33.22
+1945,"Mixed grains",31.44,33.22,34
+1946,"Mixed grains",33.22,34,42.33
+1947,"Mixed grains",34,42.33,45.56
+1948,"Mixed grains",42.33,45.56,45.33
+1949,"Mixed grains",45.56,45.33,50.22
+1950,"Mixed grains",45.33,50.22,47.44
+1951,"Mixed grains",50.22,47.44,46.44
+1952,"Mixed grains",47.44,46.44,41.67
+1953,"Mixed grains",46.44,41.67,43
+1954,"Mixed grains",41.67,43,42.44
+1955,"Mixed grains",43,42.44,40.56
+1956,"Mixed grains",42.44,40.56,38.67
+1957,"Mixed grains",40.56,38.67,41.44
+1958,"Mixed grains",38.67,41.44,41.67
+1959,"Mixed grains",41.44,41.67,42.67
+1960,"Mixed grains",41.67,42.67,47.67
+1961,"Mixed grains",42.67,47.67,45.22
+1962,"Mixed grains",47.67,45.22,44.67
+1963,"Mixed grains",45.22,44.67,46.11
+1964,"Mixed grains",44.67,46.11,47.56
+1965,"Mixed grains",46.11,47.56,49.11
+1966,"Mixed grains",47.56,49.11,49.78
+1967,"Mixed grains",49.11,49.78,46
+1968,"Mixed grains",49.78,46,41.78
+1969,"Mixed grains",46,41.78,43.89
+1970,"Mixed grains",41.78,43.89,43.67
+1971,"Mixed grains",43.89,43.67,53.11
+1972,"Mixed grains",43.67,53.11,94.56
+1973,"Mixed grains",53.11,94.56,97.22
+1974,"Mixed grains",94.56,97.22,94.78
+1975,"Mixed grains",97.22,94.78,82.89
+1976,"Mixed grains",94.78,82.89,80.11
+1977,"Mixed grains",82.89,80.11,83.56
+1978,"Mixed grains",80.11,83.56,102.67
+1979,"Mixed grains",83.56,102.67,143.89
+1980,"Mixed grains",102.67,143.89,129.67
+1981,"Mixed grains",143.89,129.67,106.78
+1982,"Mixed grains",129.67,106.78,122.78
+1983,"Mixed grains",106.78,122.78,134.78
+1984,"Mixed grains",122.78,134.78,NULL
+1953,"Mustard seed",NULL,105,97
+1954,"Mustard seed",105,97,94.5
+1955,"Mustard seed",97,94.5,117
+1956,"Mustard seed",94.5,117,68.5
+1957,"Mustard seed",117,68.5,113.5
+1958,"Mustard seed",68.5,113.5,77
+1959,"Mustard seed",113.5,77,98.67
+1960,"Mustard seed",77,98.67,84
+1961,"Mustard seed",98.67,84,89
+1962,"Mustard seed",84,89,95
+1963,"Mustard seed",89,95,93
+1964,"Mustard seed",95,93,105
+1965,"Mustard seed",93,105,105
+1966,"Mustard seed",105,105,114
+1967,"Mustard seed",105,114,103
+1968,"Mustard seed",114,103,80
+1969,"Mustard seed",103,80,85.67
+1970,"Mustard seed",80,85.67,76.67
+1971,"Mustard seed",85.67,76.67,79.67
+1972,"Mustard seed",76.67,79.67,170.67
+1973,"Mustard seed",79.67,170.67,389.67
+1974,"Mustard seed",170.67,389.67,275
+1975,"Mustard seed",389.67,275,253.67
+1976,"Mustard seed",275,253.67,237
+1977,"Mustard seed",253.67,237,229.67
+1978,"Mustard seed",237,229.67,209.67
+1979,"Mustard seed",229.67,209.67,272
+1980,"Mustard seed",209.67,272,348
+1981,"Mustard seed",272,348,263.33
+1982,"Mustard seed",348,263.33,345
+1983,"Mustard seed",263.33,345,353
+1984,"Mustard seed",345,353,NULL
+1908,Oats,NULL,26.5,24.88
+1909,Oats,26.5,24.88,26
+1910,Oats,24.88,26,28
+1911,Oats,26,28,26.67
+1912,Oats,28,26.67,26.11
+1913,Oats,26.67,26.11,34
+1914,Oats,26.11,34,28.89
+1915,Oats,34,28.89,39.33
+1916,Oats,28.89,39.33,51.33
+1917,Oats,39.33,51.33,55.56
+1918,Oats,51.33,55.56,58.11
+1919,Oats,55.56,58.11,43.44
+1920,Oats,58.11,43.44,30.89
+1921,Oats,43.44,30.89,30.56
+1922,Oats,30.89,30.56,29.78
+1923,Oats,30.56,29.78,36.89
+1924,Oats,29.78,36.89,32.56
+1925,Oats,36.89,32.56,36.78
+1926,Oats,32.56,36.78,39.89
+1927,Oats,36.78,39.89,37.11
+1928,Oats,39.89,37.11,42.56
+1929,Oats,37.11,42.56,21.67
+1930,Oats,42.56,21.67,19.78
+1931,Oats,21.67,19.78,16.89
+1932,Oats,19.78,16.89,20.78
+1933,Oats,16.89,20.78,24.67
+1934,Oats,20.78,24.67,22.44
+1935,Oats,24.67,22.44,30.11
+1936,Oats,22.44,30.11,32.22
+1937,Oats,30.11,32.22,21.78
+1938,Oats,32.22,21.78,25.11
+1939,Oats,21.78,25.11,23.22
+1940,Oats,25.11,23.22,29.67
+1941,Oats,23.22,29.67,31.22
+1942,Oats,29.67,31.22,39.78
+1943,Oats,31.22,39.78,37.44
+1944,Oats,39.78,37.44,38.11
+1945,Oats,37.44,38.11,40.22
+1946,Oats,38.11,40.22,55.22
+1947,Oats,40.22,55.22,49.56
+1948,Oats,55.22,49.56,53.22
+1949,Oats,49.56,53.22,54.11
+1950,Oats,53.22,54.11,54
+1951,Oats,54.11,54,50.33
+1952,Oats,54,50.33,44.22
+1953,Oats,50.33,44.22,47.33
+1954,Oats,44.22,47.33,48.11
+1955,Oats,47.33,48.11,45.67
+1956,Oats,48.11,45.67,42.67
+1957,Oats,45.67,42.67,44.33
+1958,Oats,42.67,44.33,47.33
+1959,Oats,44.33,47.33,47.67
+1960,Oats,47.33,47.67,50.22
+1961,Oats,47.67,50.22,47
+1962,Oats,50.22,47,45.67
+1963,Oats,47,45.67,47.44
+1964,Oats,45.67,47.44,50.56
+1965,Oats,47.44,50.56,51
+1966,Oats,50.56,51,50.11
+1967,Oats,51,50.11,44.89
+1968,Oats,50.11,44.89,42.67
+1969,Oats,44.89,42.67,45
+1970,Oats,42.67,45,43.33
+1971,Oats,45,43.33,57.78
+1972,Oats,43.33,57.78,101.78
+1973,Oats,57.78,101.78,100.89
+1974,Oats,101.78,100.89,96.78
+1975,Oats,100.89,96.78,84.67
+1976,Oats,96.78,84.67,76.78
+1977,Oats,84.67,76.78,82.67
+1978,Oats,76.78,82.67,100.11
+1979,Oats,82.67,100.11,134.67
+1980,Oats,100.11,134.67,126.22
+1981,Oats,134.67,126.22,107.78
+1982,Oats,126.22,107.78,121.44
+1983,Oats,107.78,121.44,127.67
+1984,Oats,121.44,127.67,NULL
+1908,"Peas, dry",NULL,35,37.33
+1909,"Peas, dry",35,37.33,37.78
+1910,"Peas, dry",37.33,37.78,45.89
+1911,"Peas, dry",37.78,45.89,50.89
+1912,"Peas, dry",45.89,50.89,50.25
+1913,"Peas, dry",50.89,50.25,64.86
+1914,"Peas, dry",50.25,64.86,66.12
+1915,"Peas, dry",64.86,66.12,81.62
+1916,"Peas, dry",66.12,81.62,121.88
+1917,"Peas, dry",81.62,121.88,101.12
+1918,"Peas, dry",121.88,101.12,114.44
+1919,"Peas, dry",101.12,114.44,89.22
+1920,"Peas, dry",114.44,89.22,81.11
+1921,"Peas, dry",89.22,81.11,80.78
+1922,"Peas, dry",81.11,80.78,73.11
+1923,"Peas, dry",80.78,73.11,78.44
+1924,"Peas, dry",73.11,78.44,72.56
+1925,"Peas, dry",78.44,72.56,80.89
+1926,"Peas, dry",72.56,80.89,79.89
+1927,"Peas, dry",80.89,79.89,73.22
+1928,"Peas, dry",79.89,73.22,81.89
+1929,"Peas, dry",73.22,81.89,57
+1930,"Peas, dry",81.89,57,44.17
+1931,"Peas, dry",57,44.17,32.17
+1932,"Peas, dry",44.17,32.17,41
+1933,"Peas, dry",32.17,41,46.17
+1934,"Peas, dry",41,46.17,41.83
+1935,"Peas, dry",46.17,41.83,51.67
+1936,"Peas, dry",41.83,51.67,57.5
+1937,"Peas, dry",51.67,57.5,52.17
+1938,"Peas, dry",57.5,52.17,58
+1939,"Peas, dry",52.17,58,60.2
+1940,"Peas, dry",58,60.2,74
+1941,"Peas, dry",60.2,74,74.8
+1942,"Peas, dry",74,74.8,81.8
+1943,"Peas, dry",74.8,81.8,88.5
+1944,"Peas, dry",81.8,88.5,101.83
+1945,"Peas, dry",88.5,101.83,108.5
+1946,"Peas, dry",101.83,108.5,105.5
+1947,"Peas, dry",108.5,105.5,107.83
+1948,"Peas, dry",105.5,107.83,101.17
+1949,"Peas, dry",107.83,101.17,106.83
+1950,"Peas, dry",101.17,106.83,109.5
+1951,"Peas, dry",106.83,109.5,109.83
+1952,"Peas, dry",109.5,109.83,101.17
+1953,"Peas, dry",109.83,101.17,101.83
+1954,"Peas, dry",101.17,101.83,102.5
+1955,"Peas, dry",101.83,102.5,100.33
+1956,"Peas, dry",102.5,100.33,99.83
+1957,"Peas, dry",100.33,99.83,93.17
+1958,"Peas, dry",99.83,93.17,93.5
+1959,"Peas, dry",93.17,93.5,89.83
+1960,"Peas, dry",93.5,89.83,92.17
+1961,"Peas, dry",89.83,92.17,92.67
+1962,"Peas, dry",92.17,92.67,94.17
+1963,"Peas, dry",92.67,94.17,96.67
+1964,"Peas, dry",94.17,96.67,98.33
+1965,"Peas, dry",96.67,98.33,102.33
+1966,"Peas, dry",98.33,102.33,97.17
+1967,"Peas, dry",102.33,97.17,94
+1968,"Peas, dry",97.17,94,89.83
+1969,"Peas, dry",94,89.83,90.5
+1970,"Peas, dry",89.83,90.5,89.83
+1971,"Peas, dry",90.5,89.83,107.17
+1972,"Peas, dry",89.83,107.17,179
+1973,"Peas, dry",107.17,179,229
+1974,"Peas, dry",179,229,174.5
+1975,"Peas, dry",229,174.5,170
+1976,"Peas, dry",174.5,170,179.67
+1977,"Peas, dry",170,179.67,156.33
+1978,"Peas, dry",179.67,156.33,165.67
+1979,"Peas, dry",156.33,165.67,200
+1980,"Peas, dry",165.67,200,225.33
+1981,"Peas, dry",200,225.33,216.67
+1982,"Peas, dry",225.33,216.67,216.33
+1983,"Peas, dry",216.67,216.33,224.33
+1984,"Peas, dry",216.33,224.33,NULL
+1908,"Rye, all",NULL,29.43,29.43
+1909,"Rye, all",29.43,29.43,27.57
+1910,"Rye, all",29.43,27.57,30
+1911,"Rye, all",27.57,30,29.83
+1912,"Rye, all",30,29.83,26.67
+1913,"Rye, all",29.83,26.67,36.33
+1914,"Rye, all",26.67,36.33,34.5
+1915,"Rye, all",36.33,34.5,49
+1916,"Rye, all",34.5,49,67.33
+1917,"Rye, all",49,67.33,67.62
+1918,"Rye, all",67.33,67.62,64.38
+1919,"Rye, all",67.62,64.38,59.12
+1920,"Rye, all",64.38,59.12,40.88
+1921,"Rye, all",59.12,40.88,36.62
+1922,"Rye, all",40.88,36.62,29.25
+1923,"Rye, all",36.62,29.25,43.75
+1924,"Rye, all",29.25,43.75,36.88
+1925,"Rye, all",43.75,36.88,40.62
+1926,"Rye, all",36.88,40.62,38.12
+1927,"Rye, all",40.62,38.12,41.88
+1928,"Rye, all",38.12,41.88,41.38
+1929,"Rye, all",41.88,41.38,22.25
+1930,"Rye, all",41.38,22.25,15.33
+1931,"Rye, all",22.25,15.33,14.5
+1932,"Rye, all",15.33,14.5,18.5
+1933,"Rye, all",14.5,18.5,21.83
+1934,"Rye, all",18.5,21.83,16.5
+1935,"Rye, all",21.83,16.5,28.5
+1936,"Rye, all",16.5,28.5,30.83
+1937,"Rye, all",28.5,30.83,17
+1938,"Rye, all",30.83,17,21.17
+1939,"Rye, all",17,21.17,18.5
+1940,"Rye, all",21.17,18.5,22.33
+1941,"Rye, all",18.5,22.33,23.67
+1942,"Rye, all",22.33,23.67,36.5
+1943,"Rye, all",23.67,36.5,37.33
+1944,"Rye, all",36.5,37.33,53
+1945,"Rye, all",37.33,53,78.17
+1946,"Rye, all",53,78.17,116
+1947,"Rye, all",78.17,116,53.33
+1948,"Rye, all",116,53.33,49.83
+1949,"Rye, all",53.33,49.83,55
+1950,"Rye, all",49.83,55,62.5
+1951,"Rye, all",55,62.5,57.33
+1952,"Rye, all",62.5,57.33,37
+1953,"Rye, all",57.33,37,37.33
+1954,"Rye, all",37,37.33,36.83
+1955,"Rye, all",37.33,36.83,39.67
+1956,"Rye, all",36.83,39.67,35.83
+1957,"Rye, all",39.67,35.83,35.83
+1958,"Rye, all",35.83,35.83,36.17
+1959,"Rye, all",35.83,36.17,35.67
+1960,"Rye, all",36.17,35.67,42.67
+1961,"Rye, all",35.67,42.67,42
+1962,"Rye, all",42.67,42,46.17
+1963,"Rye, all",42,46.17,40.83
+1964,"Rye, all",46.17,40.83,41.33
+1965,"Rye, all",40.83,41.33,43.67
+1966,"Rye, all",41.33,43.67,43.5
+1967,"Rye, all",43.67,43.5,41.17
+1968,"Rye, all",43.5,41.17,37.83
+1969,"Rye, all",41.17,37.83,37.67
+1970,"Rye, all",37.83,37.67,35.17
+1971,"Rye, all",37.67,35.17,52.17
+1972,"Rye, all",35.17,52.17,96.33
+1973,"Rye, all",52.17,96.33,90.5
+1974,"Rye, all",96.33,90.5,96.5
+1975,"Rye, all",90.5,96.5,85.5
+1976,"Rye, all",96.5,85.5,85.33
+1977,"Rye, all",85.5,85.33,97.5
+1978,"Rye, all",85.33,97.5,140.33
+1979,"Rye, all",97.5,140.33,169.33
+1980,"Rye, all",140.33,169.33,144.5
+1981,"Rye, all",169.33,144.5,98.67
+1982,"Rye, all",144.5,98.67,114.67
+1983,"Rye, all",98.67,114.67,106
+1984,"Rye, all",114.67,106,NULL
+1942,Soybeans,NULL,64,66
+1943,Soybeans,64,66,74
+1944,Soybeans,66,74,70
+1945,Soybeans,74,70,81
+1946,Soybeans,70,81,112
+1947,Soybeans,81,112,85
+1948,Soybeans,112,85,83
+1949,Soybeans,85,83,94
+1950,Soybeans,83,94,101
+1951,Soybeans,94,101,94
+1952,Soybeans,101,94,90
+1953,Soybeans,94,90,88
+1954,Soybeans,90,88,77
+1955,Soybeans,88,77,82
+1956,Soybeans,77,82,75.5
+1957,Soybeans,82,75.5,72
+1958,Soybeans,75.5,72,68.5
+1959,Soybeans,72,68.5,81
+1960,Soybeans,68.5,81,83
+1961,Soybeans,81,83,91
+1962,Soybeans,83,91,103
+1963,Soybeans,91,103,105
+1964,Soybeans,103,105,99
+1965,Soybeans,105,99,110
+1966,Soybeans,99,110,98
+1967,Soybeans,110,98,90
+1968,Soybeans,98,90,89
+1969,Soybeans,90,89,102
+1970,Soybeans,89,102,109
+1971,Soybeans,102,109,143
+1972,Soybeans,109,143,210
+1973,Soybeans,143,210,233
+1974,Soybeans,210,233,181
+1975,Soybeans,233,181,259
+1976,Soybeans,181,259,240
+1977,Soybeans,259,240,281
+1978,Soybeans,240,281,262
+1979,Soybeans,281,262,313
+1980,Soybeans,262,313,264
+1981,Soybeans,313,264,250
+1982,Soybeans,264,250,343
+1983,Soybeans,250,343,277
+1984,Soybeans,343,277,NULL
+1908,"Sugar beets",NULL,0.58,0.61
+1909,"Sugar beets",0.58,0.61,0.6
+1910,"Sugar beets",0.61,0.6,0.65
+1911,"Sugar beets",0.6,0.65,0.56
+1912,"Sugar beets",0.65,0.56,0.62
+1913,"Sugar beets",0.56,0.62,0.63
+1914,"Sugar beets",0.62,0.63,0.61
+1915,"Sugar beets",0.63,0.61,0.68
+1916,"Sugar beets",0.61,0.68,0.74
+1917,"Sugar beets",0.68,0.74,1.13
+1918,"Sugar beets",0.74,1.13,1.2
+1919,"Sugar beets",1.13,1.2,1.41
+1920,"Sugar beets",1.2,1.41,0.72
+1921,"Sugar beets",1.41,0.72,0.87
+1922,"Sugar beets",0.72,0.87,0.71
+1923,"Sugar beets",0.87,0.71,0.75
+1924,"Sugar beets",0.71,0.75,0.66
+1925,"Sugar beets",0.75,0.66,0.79
+1926,"Sugar beets",0.66,0.79,0.88
+1927,"Sugar beets",0.79,0.88,0.78
+1928,"Sugar beets",0.88,0.78,0.75
+1929,"Sugar beets",0.78,0.75,0.75
+1930,"Sugar beets",0.75,0.75,0.69
+1931,"Sugar beets",0.75,0.69,0.66
+1932,"Sugar beets",0.69,0.66,0.69
+1933,"Sugar beets",0.66,0.69,0.62
+1934,"Sugar beets",0.69,0.62,0.61
+1935,"Sugar beets",0.62,0.61,0.66
+1936,"Sugar beets",0.61,0.66,0.64
+1937,"Sugar beets",0.66,0.64,0.73
+1938,"Sugar beets",0.64,0.73,0.83
+1939,"Sugar beets",0.73,0.83,0.74
+1940,"Sugar beets",0.83,0.74,0.84
+1941,"Sugar beets",0.74,0.84,0.91
+1942,"Sugar beets",0.84,0.91,1.19
+1943,"Sugar beets",0.91,1.19,1.23
+1944,"Sugar beets",1.19,1.23,1.18
+1945,"Sugar beets",1.23,1.18,1.35
+1946,"Sugar beets",1.18,1.35,1.49
+1947,"Sugar beets",1.35,1.49,1.56
+1948,"Sugar beets",1.49,1.56,1.5
+1949,"Sugar beets",1.56,1.5,1.72
+1950,"Sugar beets",1.5,1.72,1.64
+1951,"Sugar beets",1.72,1.64,1.62
+1952,"Sugar beets",1.64,1.62,14.42
+1953,"Sugar beets",1.62,14.42,13.28
+1954,"Sugar beets",14.42,13.28,14.3
+1955,"Sugar beets",13.28,14.3,18.07
+1956,"Sugar beets",14.3,18.07,14.7
+1957,"Sugar beets",18.07,14.7,16.15
+1958,"Sugar beets",14.7,16.15,14.3
+1959,"Sugar beets",16.15,14.3,15.67
+1960,"Sugar beets",14.3,15.67,14.53
+1961,"Sugar beets",15.67,14.53,19.72
+1962,"Sugar beets",14.53,19.72,20.3
+1963,"Sugar beets",19.72,20.3,16.22
+1964,"Sugar beets",20.3,16.22,18.3
+1965,"Sugar beets",16.22,18.3,18.12
+1966,"Sugar beets",18.3,18.12,18.5
+1967,"Sugar beets",18.12,18.5,18.43
+1968,"Sugar beets",18.5,18.43,18.67
+1969,"Sugar beets",18.43,18.67,17.43
+1970,"Sugar beets",18.67,17.43,18.8
+1971,"Sugar beets",17.43,18.8,20.7
+1972,"Sugar beets",18.8,20.7,35.17
+1973,"Sugar beets",20.7,35.17,53.07
+1974,"Sugar beets",35.17,53.07,35.93
+1975,"Sugar beets",53.07,35.93,30.5
+1976,"Sugar beets",35.93,30.5,30.63
+1977,"Sugar beets",30.5,30.63,32.07
+1978,"Sugar beets",30.63,32.07,64.6
+1979,"Sugar beets",32.07,64.6,58.33
+1980,"Sugar beets",64.6,58.33,40.9
+1981,"Sugar beets",58.33,40.9,31.33
+1982,"Sugar beets",40.9,31.33,30.64
+1983,"Sugar beets",31.33,30.64,25.83
+1984,"Sugar beets",30.64,25.83,NULL
+1949,"Sunflower seed",NULL,84,86
+1950,"Sunflower seed",84,86,82
+1951,"Sunflower seed",86,82,101
+1952,"Sunflower seed",82,101,95
+1953,"Sunflower seed",101,95,92
+1954,"Sunflower seed",95,92,88
+1955,"Sunflower seed",92,88,94
+1956,"Sunflower seed",88,94,100
+1957,"Sunflower seed",94,100,112.5
+1958,"Sunflower seed",100,112.5,77
+1959,"Sunflower seed",112.5,77,90.5
+1960,"Sunflower seed",77,90.5,86
+1961,"Sunflower seed",90.5,86,102
+1962,"Sunflower seed",86,102,106.67
+1963,"Sunflower seed",102,106.67,105.67
+1964,"Sunflower seed",106.67,105.67,121.67
+1965,"Sunflower seed",105.67,121.67,111
+1966,"Sunflower seed",121.67,111,106
+1967,"Sunflower seed",111,106,103.33
+1968,"Sunflower seed",106,103.33,121
+1969,"Sunflower seed",103.33,121,96.33
+1970,"Sunflower seed",121,96.33,107.33
+1971,"Sunflower seed",96.33,107.33,128.67
+1972,"Sunflower seed",107.33,128.67,204.67
+1973,"Sunflower seed",128.67,204.67,450
+1974,"Sunflower seed",204.67,450,221
+1975,"Sunflower seed",450,221,221
+1976,"Sunflower seed",221,221,223
+1977,"Sunflower seed",221,223,231.5
+1978,"Sunflower seed",223,231.5,220
+1979,"Sunflower seed",231.5,220,197.5
+1980,"Sunflower seed",220,197.5,252.5
+1981,"Sunflower seed",197.5,252.5,199.5
+1982,"Sunflower seed",252.5,199.5,281.5
+1983,"Sunflower seed",199.5,281.5,348.5
+1984,"Sunflower seed",281.5,348.5,NULL
+1908,"Tame hay",NULL,0.98,1.03
+1909,"Tame hay",0.98,1.03,1.04
+1910,"Tame hay",1.03,1.04,1.27
+1911,"Tame hay",1.04,1.27,1.22
+1912,"Tame hay",1.27,1.22,1.2
+1913,"Tame hay",1.22,1.2,1.35
+1914,"Tame hay",1.2,1.35,1.34
+1915,"Tame hay",1.35,1.34,1.21
+1916,"Tame hay",1.34,1.21,1.29
+1917,"Tame hay",1.21,1.29,1.95
+1918,"Tame hay",1.29,1.95,2.4
+1919,"Tame hay",1.95,2.4,2.64
+1920,"Tame hay",2.4,2.64,2.29
+1921,"Tame hay",2.64,2.29,1.59
+1922,"Tame hay",2.29,1.59,1.24
+1923,"Tame hay",1.59,1.24,1.31
+1924,"Tame hay",1.24,1.31,1.27
+1925,"Tame hay",1.31,1.27,1.3
+1926,"Tame hay",1.27,1.3,1.21
+1927,"Tame hay",1.3,1.21,1.19
+1928,"Tame hay",1.21,1.19,1.39
+1929,"Tame hay",1.19,1.39,1.17
+1930,"Tame hay",1.39,1.17,0.95
+1931,"Tame hay",1.17,0.95,0.82
+1932,"Tame hay",0.95,0.82,0.92
+1933,"Tame hay",0.82,0.92,1.29
+1934,"Tame hay",0.92,1.29,0.93
+1935,"Tame hay",1.29,0.93,0.88
+1936,"Tame hay",0.93,0.88,0.9
+1937,"Tame hay",0.88,0.9,0.9
+1938,"Tame hay",0.9,0.9,0.96
+1939,"Tame hay",0.9,0.96,0.98
+1940,"Tame hay",0.96,0.98,1.19
+1941,"Tame hay",0.98,1.19,1.12
+1942,"Tame hay",1.19,1.12,1.32
+1943,"Tame hay",1.12,1.32,1.39
+1944,"Tame hay",1.32,1.39,1.39
+1945,"Tame hay",1.39,1.39,1.57
+1946,"Tame hay",1.39,1.57,1.85
+1947,"Tame hay",1.57,1.85,1.76
+1948,"Tame hay",1.85,1.76,1.88
+1949,"Tame hay",1.76,1.88,1.89
+1950,"Tame hay",1.88,1.89,1.78
+1951,"Tame hay",1.89,1.78,1.63
+1952,"Tame hay",1.78,1.63,15.37
+1953,"Tame hay",1.63,15.37,16.42
+1954,"Tame hay",15.37,16.42,17.11
+1955,"Tame hay",16.42,17.11,17.63
+1956,"Tame hay",17.11,17.63,17.76
+1957,"Tame hay",17.63,17.76,16.99
+1958,"Tame hay",17.76,16.99,17.31
+1959,"Tame hay",16.99,17.31,16.63
+1960,"Tame hay",17.31,16.63,18.19
+1961,"Tame hay",16.63,18.19,17.67
+1962,"Tame hay",18.19,17.67,17.46
+1963,"Tame hay",17.67,17.46,18.86
+1964,"Tame hay",17.46,18.86,21.27
+1965,"Tame hay",18.86,21.27,18.5
+1966,"Tame hay",21.27,18.5,19.87
+1967,"Tame hay",18.5,19.87,21.2
+1968,"Tame hay",19.87,21.2,20.98
+1969,"Tame hay",21.2,20.98,21.2
+1970,"Tame hay",20.98,21.2,21.59
+1971,"Tame hay",21.2,21.59,24.96
+1972,"Tame hay",21.59,24.96,31.31
+1973,"Tame hay",24.96,31.31,48.54
+1974,"Tame hay",31.31,48.54,53.39
+1975,"Tame hay",48.54,53.39,47.3
+1976,"Tame hay",53.39,47.3,48.32
+1977,"Tame hay",47.3,48.32,48.34
+1978,"Tame hay",48.32,48.34,50.69
+1979,"Tame hay",48.34,50.69,62.87
+1980,"Tame hay",50.69,62.87,58.92
+1981,"Tame hay",62.87,58.92,62.31
+1982,"Tame hay",58.92,62.31,76.26
+1983,"Tame hay",62.31,76.26,83.77
+1984,"Tame hay",76.26,83.77,NULL
+1908,"Wheat, all",NULL,34.25,36.12
+1909,"Wheat, all",34.25,36.12,34.89
+1910,"Wheat, all",36.12,34.89,32.78
+1911,"Wheat, all",34.89,32.78,31.33
+1912,"Wheat, all",32.78,31.33,33.78
+1913,"Wheat, all",31.33,33.78,41.44
+1914,"Wheat, all",33.78,41.44,38.56
+1915,"Wheat, all",41.44,38.56,56
+1916,"Wheat, all",38.56,56,77.33
+1917,"Wheat, all",56,77.33,78.89
+1918,"Wheat, all",77.33,78.89,95.89
+1919,"Wheat, all",78.89,95.89,71.22
+1920,"Wheat, all",95.89,71.22,41.67
+1921,"Wheat, all",71.22,41.67,44
+1922,"Wheat, all",41.67,44,39.78
+1923,"Wheat, all",44,39.78,53.11
+1924,"Wheat, all",39.78,53.11,53.44
+1925,"Wheat, all",53.11,53.44,50.78
+1926,"Wheat, all",53.44,50.78,48.33
+1927,"Wheat, all",50.78,48.33,46
+1928,"Wheat, all",48.33,46,51.22
+1929,"Wheat, all",46,51.22,28
+1930,"Wheat, all",51.22,28,23.22
+1931,"Wheat, all",28,23.22,21.33
+1932,"Wheat, all",23.22,21.33,26.11
+1933,"Wheat, all",21.33,26.11,30.56
+1934,"Wheat, all",26.11,30.56,30.33
+1935,"Wheat, all",30.56,30.33,39
+1936,"Wheat, all",30.33,39,43
+1937,"Wheat, all",39,43,28.89
+1938,"Wheat, all",43,28.89,28.44
+1939,"Wheat, all",28.89,28.44,28.56
+1940,"Wheat, all",28.44,28.56,30.67
+1941,"Wheat, all",28.56,30.67,33.22
+1942,"Wheat, all",30.67,33.22,40.67
+1943,"Wheat, all",33.22,40.67,43
+1944,"Wheat, all",40.67,43,50.33
+1945,"Wheat, all",43,50.33,51.89
+1946,"Wheat, all",50.33,51.89,57.22
+1947,"Wheat, all",51.89,57.22,64.67
+1948,"Wheat, all",57.22,64.67,63.56
+1949,"Wheat, all",64.67,63.56,61.89
+1950,"Wheat, all",63.56,61.89,66.67
+1951,"Wheat, all",61.89,66.67,62.89
+1952,"Wheat, all",66.67,62.89,56.56
+1953,"Wheat, all",62.89,56.56,53.11
+1954,"Wheat, all",56.56,53.11,56
+1955,"Wheat, all",53.11,56,53.89
+1956,"Wheat, all",56,53.89,52.33
+1957,"Wheat, all",53.89,52.33,53.89
+1958,"Wheat, all",52.33,53.89,54.56
+1959,"Wheat, all",53.89,54.56,57.44
+1960,"Wheat, all",54.56,57.44,60.33
+1961,"Wheat, all",57.44,60.33,60.89
+1962,"Wheat, all",60.33,60.89,62.44
+1963,"Wheat, all",60.89,62.44,60.67
+1964,"Wheat, all",62.44,60.67,61
+1965,"Wheat, all",60.67,61,63.22
+1966,"Wheat, all",61,63.22,62
+1967,"Wheat, all",63.22,62,56.33
+1968,"Wheat, all",62,56.33,52.22
+1969,"Wheat, all",56.33,52.22,54.89
+1970,"Wheat, all",52.22,54.89,54
+1971,"Wheat, all",54.89,54,65.78
+1972,"Wheat, all",54,65.78,139.33
+1973,"Wheat, all",65.78,139.33,135.67
+1974,"Wheat, all",139.33,135.67,125.33
+1975,"Wheat, all",135.67,125.33,107.56
+1976,"Wheat, all",125.33,107.56,101.11
+1977,"Wheat, all",107.56,101.11,124.44
+1978,"Wheat, all",101.11,124.44,156.78
+1979,"Wheat, all",124.44,156.78,184.89
+1980,"Wheat, all",156.78,184.89,175.11
+1981,"Wheat, all",184.89,175.11,157
+1982,"Wheat, all",175.11,157,164.67
+1983,"Wheat, all",157,164.67,172.22
+1984,"Wheat, all",164.67,172.22,NULL

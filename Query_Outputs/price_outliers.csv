@@ -1,0 +1,84 @@
+ref_date,type_of_crop,price_year_before,price_current_year,percent_diff,Outliers
+1910,Flaxseed,47.33,77.4,63.53,high_outlier
+1916,Barley,29.78,41.56,39.56,high_outlier
+1916,"Beans, all dry (white and coloured)",130.75,207.25,58.51,high_outlier
+1916,"Corn for grain",35.5,50.5,42.25,high_outlier
+1916,"Rye, all",34.5,49,42.03,high_outlier
+1916,"Wheat, all",38.56,56,45.23,high_outlier
+1917,"Beans, all dry (white and coloured)",207.25,289.5,39.69,high_outlier
+1917,"Corn for grain",50.5,78.5,55.45,high_outlier
+1917,Flaxseed,82.4,120.8,46.6,high_outlier
+1917,"Mixed grains",37.44,55,46.9,high_outlier
+1917,"Peas, dry",81.62,121.88,49.33,high_outlier
+1917,"Wheat, all",56,77.33,38.09,high_outlier
+1918,"Sugar beets",7.4,11.3,52.7,high_outlier
+1918,"Tame hay",12.89,19.54,51.59,high_outlier
+1920,Flaxseed,157.2,93.8,-40.33,low_outlier
+1921,Barley,51.78,33.33,-35.63,low_outlier
+1921,"Corn for silage",14.29,8.89,-37.79,low_outlier
+1921,"Mixed grains",58.67,31.44,-46.41,low_outlier
+1921,"Sugar beets",14.1,7.2,-48.94,low_outlier
+1921,"Wheat, all",71.22,41.67,-41.49,low_outlier
+1924,"Rye, all",29.25,43.75,49.57,high_outlier
+1930,Barley,38.33,20.44,-46.67,low_outlier
+1930,Flaxseed,88.5,49.17,-44.44,low_outlier
+1930,"Mixed grains",40.33,20.78,-48.48,low_outlier
+1930,Oats,42.56,21.67,-49.08,low_outlier
+1930,"Rye, all",41.38,22.25,-46.23,low_outlier
+1930,"Wheat, all",51.22,28,-45.33,low_outlier
+1931,"Beans, all dry (white and coloured)",82.14,48,-41.56,low_outlier
+1933,Flaxseed,33.33,47.83,43.5,high_outlier
+1934,"Tame hay",9.19,12.88,40.15,high_outlier
+1936,Barley,21.67,32,47.67,high_outlier
+1936,"Corn for grain",18,27,50,high_outlier
+1936,"Rye, all",16.5,28.5,72.73,high_outlier
+1938,"Rye, all",30.83,17,-44.86,low_outlier
+1942,Flaxseed,55,77,40,high_outlier
+1943,"Rye, all",23.67,36.5,54.2,high_outlier
+1945,"Rye, all",37.33,53,41.98,high_outlier
+1946,"Rye, all",53,78.17,47.49,high_outlier
+1947,"Beans, all dry (white and coloured)",125.5,182,45.02,high_outlier
+1947,"Corn for grain",39.5,64.5,63.29,high_outlier
+1947,Flaxseed,118,207.8,76.1,high_outlier
+1947,"Rye, all",78.17,116,48.39,high_outlier
+1947,Soybeans,81,112,38.27,high_outlier
+1948,"Rye, all",116,53.33,-54.03,low_outlier
+1953,"Rye, all",57.33,37,-35.46,low_outlier
+1957,"Mustard seed",117,68.5,-41.45,low_outlier
+1958,"Mustard seed",68.5,113.5,65.69,high_outlier
+1959,"Canola (rapeseed)",58,88,51.72,high_outlier
+1972,"Canola (rapeseed)",96,138.75,44.53,high_outlier
+1972,Flaxseed,86,148.25,72.38,high_outlier
+1972,"Rye, all",35.17,52.17,48.34,high_outlier
+1973,Barley,56.44,105.56,87.03,high_outlier
+1973,"Beans, all dry (white and coloured)",193,451,133.68,high_outlier
+1973,Buckwheat,61.8,115.8,87.38,high_outlier
+1973,"Canola (rapeseed)",138.75,253,82.34,high_outlier
+1973,"Corn for grain",66.33,114,71.87,high_outlier
+1973,Flaxseed,148.25,366,146.88,high_outlier
+1973,"Mixed grains",53.11,94.56,78.05,high_outlier
+1973,"Mustard seed",79.67,170.67,114.22,high_outlier
+1973,Oats,57.78,101.78,76.15,high_outlier
+1973,"Peas, dry",107.17,179,67.02,high_outlier
+1973,"Rye, all",52.17,96.33,84.65,high_outlier
+1973,Soybeans,143,210,46.85,high_outlier
+1973,"Sugar beets",20.7,35.17,69.9,high_outlier
+1973,"Sunflower seed",128.67,204.67,59.07,high_outlier
+1973,"Wheat, all",65.78,139.33,111.81,high_outlier
+1974,"Mustard seed",170.67,389.67,128.32,high_outlier
+1974,"Sugar beets",35.17,53.07,50.9,high_outlier
+1974,"Sunflower seed",204.67,450,119.87,high_outlier
+1974,"Tame hay",31.31,48.54,55.03,high_outlier
+1975,"Sunflower seed",450,221,-50.89,low_outlier
+1976,Soybeans,181,259,43.09,high_outlier
+1979,"Beans, all dry (white and coloured)",321,465,44.86,high_outlier
+1979,"Rye, all",97.5,140.33,43.93,high_outlier
+1979,"Sugar beets",32.07,64.6,101.43,high_outlier
+1980,Buckwheat,170.5,247,44.87,high_outlier
+1980,"Mixed grains",102.67,143.89,40.15,high_outlier
+1981,Buckwheat,247,378.5,53.24,high_outlier
+1982,"Beans, all dry (white and coloured)",677,264,-61,low_outlier
+1983,"Beans, all dry (white and coloured)",264,622,135.61,high_outlier
+1983,"Canola (rapeseed)",271,381.2,40.66,high_outlier
+1983,"Sunflower seed",199.5,281.5,41.1,high_outlier
+1984,Lentils,350.33,495.67,41.49,high_outlier

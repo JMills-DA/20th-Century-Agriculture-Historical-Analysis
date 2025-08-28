@@ -1,0 +1,5 @@
+ref_date,type_of_crop,price_current_year,price_percent_diff,price_outliers,ref_date,type_of_crop,production_current_year,production_percent_diff,production_outliers
+1930,Flaxseed,49.17,-44.44,low_outlier,1930,Flaxseed,128800,146.27,high_outlier
+1938,"Rye, all",17,-44.86,low_outlier,1938,"Rye, all",279200,91.23,high_outlier
+1948,"Rye, all",53.33,-54.03,low_outlier,1948,"Rye, all",698600,101.73,high_outlier
+1975,"Sunflower seed",221,-50.89,low_outlier,1975,"Sunflower seed",29900,260.24,high_outlier

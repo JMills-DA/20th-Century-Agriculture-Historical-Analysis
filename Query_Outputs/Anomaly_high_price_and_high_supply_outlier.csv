@@ -1,0 +1,7 @@
+ref_date,type_of_crop,price_current_year,price_percent_diff,price_outliers,ref_date,type_of_crop,production_current_year,production_percent_diff,production_outliers
+1910,Flaxseed,77.4,63.53,high_outlier,1910,Flaxseed,107850,91.56,high_outlier
+1917,"Beans, all dry (white and coloured)",289.5,39.69,high_outlier,1917,"Beans, all dry (white and coloured)",34650,209.38,high_outlier
+1942,Flaxseed,77,40,high_outlier,1942,Flaxseed,392950,128.13,high_outlier
+1947,Flaxseed,207.8,76.1,high_outlier,1947,Flaxseed,351050,103.98,high_outlier
+1973,"Mustard seed",170.67,114.22,high_outlier,1973,"Mustard seed",118800,72.67,high_outlier
+1981,Buckwheat,378.5,53.24,high_outlier,1981,Buckwheat,52800,106.25,high_outlier

@@ -1,0 +1,30 @@
+region,type_of_crop,earliest_skip_year,latest_skip_year,num_years_skipped
+NS,"Rye, all",1931,1980,50
+QU,"Corn for grain",1932,1965,34
+NB,"Corn for silage",1941,1974,34
+NS,"Corn for silage",1941,1974,34
+PEI,"Corn for silage",1941,1974,34
+AB,"Corn for silage",1953,1977,25
+QU,Flaxseed,1940,1976,25
+SK,"Sunflower seed",1946,1976,21
+AB,"Sunflower seed",1944,1974,17
+AB,"Sugar beets",1915,1924,10
+NB,"Rye, all",1910,1917,8
+BC,"Rye, all",1911,1917,7
+MB,"Peas, dry",1913,1918,6
+SK,"Peas, dry",1914,1943,6
+AB,Buckwheat,1972,1976,5
+MB,"Canola (rapeseed)",1947,1951,5
+BC,Flaxseed,1972,1976,5
+BC,"Beans, all dry (white and coloured)",1914,1917,4
+ON,Flaxseed,1973,1976,4
+QU,"Rye, all",1981,1984,4
+SK,Buckwheat,1974,1976,3
+BC,Barley,1908,1909,2
+BC,Oats,1908,1909,2
+ON,"Peas, dry",1975,1976,2
+BC,"Wheat, all",1908,1909,2
+NB,Buckwheat,1976,1976,1
+MB,"Mustard seed",1954,1954,1
+PEI,"Peas, dry",1910,1910,1
+QU,"Peas, dry",1976,1976,1
