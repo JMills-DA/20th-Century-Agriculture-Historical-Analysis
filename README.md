@@ -2,7 +2,7 @@
 
 **By Joshua Mills**
 
-[LinkedIn](https://www.linkedin.com/in/josh-mills-258465336](https://www.linkedin.com/in/josh-mills-258465336))
+[LinkedIn](https://www.linkedin.com/in/josh-mills-258465336)
 
 Data Source: \[ [https://www.kaggle.com/datasets/aradhanahirapara/farm-produce-data-80-years](https://www.kaggle.com/datasets/aradhanahirapara/farm-produce-data-80-years) \]  
 Tools used: MySQL for cleaning and analysis, Tableau for visualization
