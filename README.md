@@ -159,7 +159,7 @@ Flax:
 * 1930: **\-44% price, \+146% production on top of the already general market downturn**  
 * 1933: **\+43% price, \-76% production**
 
-	Rye:
+Rye:
 
 * 1938: **\-54% price, \+101% production**
 
@@ -250,7 +250,8 @@ The end of World War 2 marks a high in overall market prices for agricultural go
 Other years where rye experienced sharp changes were few and far between, but are also likely attributable to supply-demand loops, especially because it is a secondary crop. It could be that years where price dropped that weather was less favorable for primary crops, causing more rye than usual to be planted, and years where it rose to have more favorable weather.
 
 * 1953: **\-35% price**  
-* 1972: **\+48% price**  
+* 1972: **\+48% price**
+
   ---
 
 ### **Canola Production:**
